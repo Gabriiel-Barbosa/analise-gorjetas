@@ -1,4 +1,4 @@
-# Estudo da Biblióteca Seaborn 
+# Estudo da Biblioteca Seaborn
 
 <div>
 
@@ -13,6 +13,8 @@
 <p align="center">
 <a href="#sobre"> Sobre - </a>
 <a href="#tecnologias">Tecnologias - </a>
+<a href="#bibliotecas">Bibliotecas - </a>
+<a href="#analises">Análises - </a>
 <a href="#autor">Autor</a>
 
 </div>
@@ -38,6 +40,26 @@ Serão Realizadas 04 análises.
 # Tecnlogias
 * Python
 * Jupyter Notebook
+
+# Bibliotecas
+* Pandas
+* Seaborn
+
+# Analises
+
+## Análise 01
+
+![Gráfico de Dispeção 1](graphics/grap1.png)
+
+<p> Segundo o Gráfico de disperção, é possível notar que o valor da gorjeta é maior <br> em contas com valores altos</p> 
+
+### Verificando se o valor da gorjeta é proporcional ao da conta
+
+![Gráfico de Dispeção 2](graphics/grap2.png)
+
+<p> Apesar do primeiro gráfico indicar que conforme o valor da conta sobe, o valor da gorjeta também sobe <br> o segundo gráfico indica que essa característica não é proporcional! </p> 
+
+
 
 # Autor
 
