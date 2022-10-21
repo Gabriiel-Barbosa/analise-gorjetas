@@ -23,7 +23,7 @@
 
  
 <h4 align = "center">
-🚧Projeto Em Contrução🚧
+✔️Projeto concluído✔️
 
 
 # Sobre
@@ -98,11 +98,11 @@ que não pediram sobremesa.</p>
 <p> Visualmente as pessoas gastam menos na quinta e na sexta.</p>
 
 
-![Gráfico de Dispeção Comparativo](graphics/grap8.png)
+![Gráfico de Dispeção Comparativo 1](graphics/grap8.png)
 
-![Gráfico de Dispeção Comparativo](graphics/grap9.png)
+![Gráfico de Dispeção Comparativo 2](graphics/grap9.png)
 
-![Gráfico de Dispeção Comparativo](graphics/grap10.png)
+![Gráfico de Dispeção Comparativo 3](graphics/grap10.png)
 
 ### **Análises Descritivas**
 * Média geral das gorjetas é de 2.99
@@ -122,6 +122,27 @@ Os valores das contas nos dois dias são diferentes também?</p>
 **Resultado do  pvalue=0.35. Como esse valor é muito alto, a hipótese alternativa é decartada, logo a hipótese nula prevalece.**
 
 - **A distribuição do valor na conta é igual no sábado e no domingo.**
+
+## **Análise 04**
+
+### **A hora do dia influencia no valor da conta ?**
+
+![Gráfico de Dispeção Categorico 7](graphics/grap11.png)
+
+<p>Visualmente, as contas do Jantar são maiores</p>
+
+![Gráfico de Dispeção Categorico 8](graphics/grap12.png)
+
+![Gráfico de Dispeção Categorico 9](graphics/grap13.png)
+
+<p>No gráfico acima fica visível a média de frequência da conta do jantar e do almoço.</br>
+Com ele fica vísivel a diferença de valores na média e na proporção dos valores </br>
+Pro fim é possível concluir que a hora do dia influencia no valor da conta  </p>
+
+
+
+
+
 
 
 # Autor
