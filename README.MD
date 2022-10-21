@@ -3,7 +3,7 @@
 <div>
 
 <p align="center"> Estudo da Biblióteca Seaborn com base no curso da Alura <br/> 
-                   Python para Data Science
+                   Python para Data Science.
 </p>
 
 </div>
@@ -44,6 +44,7 @@ Serão Realizadas 04 análises.
 # Bibliotecas
 * Pandas
 * Seaborn
+* Ranksums
 
 # Analises
 
@@ -59,7 +60,35 @@ Serão Realizadas 04 análises.
 
 <p> Apesar do primeiro gráfico indicar que conforme o valor da conta sobe, o valor da gorjeta também sobe <br> o segundo gráfico indica que essa característica não é proporcional! </p> 
 
+## Análise 02
+Pedir sobremesa altera o valor sa gorjeta ?
 
+![Gráfico de Dispeção Categórico 1](graphics/grap3.png)
+
+<p> Infelizmente o gráfico categórico não retornou nenhum dado relevante sobre a infliuência da <br> sobremesa na gorjeta. </p> 
+
+![Gráfico de Dispeção Categórico 2](graphics/grap4.png)
+<p> Esse gráfico já aponta uma disperção maior nas gorjetas de contas com sombremesa <br> 
+Validar essa análise através de mais 02 gráficos seguintes:</p>
+
+![Gráfico de Dispeção Categórico 3](graphics/grap5.png)
+
+![Gráfico de Dispeção Categórico 4](graphics/grap6.png)
+
+<p> Visualemnte existe uma diferença da gorjeta daqueles que pediram sobremesa para aqueles<br> 
+que não pediram sobremesa</p>
+
+### Teste de Hipótese
+
+**H<sup>null**
+**A distribuição da taxa da gorjeta é a mesma nos dois grupos (Grupo que compra sobremesa e grupo que não compra sobremesa)**
+
+**H<alt>null**
+**A distribuição da taxa da gorjeta não é a mesma nos dois grupos (Grupo que compra sobremesa e grupo que não compra sobremesa)**
+
+**Resultado do  pvalue=0.5. Como esse valor é muito alto, a hipótese alternativa é decartada, logo a hipótese nula prevalece**
+
+- **A distribuição da taxa da gorjeta é a mesma nos dois grupos (Grupo que compra sobremesa e grupo que não compra sobremesa)**
 
 # Autor
 
